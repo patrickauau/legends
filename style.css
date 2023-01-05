@@ -1,0 +1,79 @@
+body{
+    background-image: url(gogeta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.titulo{
+    margin: 0px 0px 0px 550px;
+    font-family: "Roboto Mono", monospace;
+    color: orangered;
+
+}
+
+.subtitulo{
+    margin: 0px 0px 0px 580px;
+    font-family: "Roboto Mono", monospace;
+    color: orangered;
+}
+
+
+#botao{
+    border-radius: 10px;
+    background: #ffffff;
+    color: red;
+    margin: 12px 15px 50px 200px;
+    border-radius: 10px;
+    border: 2px double black;
+    width: 150px;
+    height: 50px;
+    background-size: cover;
+    font-size: 25px;
+  }
+
+
+#botao:hover{
+    transform: scale(1.1);
+    box-shadow: 3px 10px 10px 3px black;
+    transition: 200ms;
+
+}
+
+#botao1{
+    border-radius: 10px;
+    background: #ffffff;
+    color: red;
+    margin: 12px 15px 50px 600px;
+    border-radius: 10px;
+    border: 2px double black;
+    width: 150px;
+    height: 50px;
+    background-size: cover;
+    font-size: 15px;
+  }
+
+
+#botao1:hover{
+    transform: scale(1.1);
+    box-shadow: 3px 10px 10px 3px black;
+    transition: 200ms;
+
+}
+
+#importante{
+    margin: 0px 0px 0px 720px;
+    height: 350px;
+    width: 630px;
+    visibility: hidden;
+}
+
+#imagemBraba{
+    position: absolute;
+    margin: 0px 0px 0px -1270px;
+    height: 250px;
+    width: 400px;
+    visibility: hidden;
+}
+
